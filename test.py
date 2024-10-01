@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 
 # Data for the chart
-models = ['Model I', 'Model II', 'Model III']
+models = ['Model I', 'Model II', 'Projected Model III']
 accuracy = [15, 50, 90]
 
 
